@@ -1,0 +1,26 @@
+,Item,proportion,category
+0,Survey item A,7,Strongly Like
+1,Survey item A,8,Like
+2,Survey item A,35,Strongly Dislike
+3,Survey item A,25,Dislike
+4,Survey item A,25,Neutral
+0,Survey item B,8,Strongly Like
+1,Survey item B,10,Like
+2,Survey item B,20,Strongly Dislike
+3,Survey item B,25,Dislike
+4,Survey item B,37,Neutral
+0,Survey item C,8,Strongly Like
+1,Survey item C,13,Like
+2,Survey item C,20,Strongly Dislike
+3,Survey item C,18,Dislike
+4,Survey item C,41,Neutral
+0,Survey item D,13,Strongly Like
+1,Survey item D,26,Like
+2,Survey item D,16,Strongly Dislike
+3,Survey item D,24,Dislike
+4,Survey item D,21,Neutral
+0,Survey item E,18,Strongly Like
+1,Survey item E,23,Like
+2,Survey item E,12,Strongly Dislike
+3,Survey item E,20,Dislike
+4,Survey item E,27,Neutral
